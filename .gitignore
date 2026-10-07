@@ -1,0 +1,10 @@
+# Les secrets : jamais dans le depot (seuls les modeles .env.example sont suivis)
+.env
+.env.*
+!.env.example
+
+# Les dependances, retelechargees par « npm install »
+node_modules/
+
+# Le modele d'IA telecharge automatiquement au premier lancement (109 Mo)
+.cache/

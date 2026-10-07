@@ -10,7 +10,7 @@ Projet réalisé pour les fondateurs de la startup AskVera, en compétition avec
 Nous étions **une équipe de cinq**, organisés en méthode agile avec Trello et Discord :
 
 - trois développeurs : [ealmvin](https://github.com/ealmvin), [Amurius](https://github.com/Amurius) et moi ;
-- deux web designers.
+- un web designers.
 
 Ce dépôt est une copie du code du projet, publiée pour présenter le travail réalisé. Le mérite en revient à toute l'équipe ; ma part est détaillée ci-dessous.
 
